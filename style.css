@@ -13,3 +13,8 @@ div {
     font-size: xx-large;
     color: #130c82;
 }
+
+img {
+    border-radius: 50%;
+    width: 30%;
+}
